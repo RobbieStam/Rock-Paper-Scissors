@@ -2,7 +2,6 @@
 
 Welcome to my game!
 
-To use my game you need to 
-1. clone my repo.
-2. NPM install
-3. Use Local Host/Live server from the index.html file.
+You can only use it on live server right now!
+
+Will be fixing soon.
